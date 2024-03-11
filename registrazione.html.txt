@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registrazione Utente</title>
+</head>
+<body>
+    <h1>Registrazione Utente</h1>
+    <form>
+        Nome: <input type="text" name="nome" ><br>
+        Cognome: <input type="text" name="cognome"><br>
+        Numero: <input type="text" name="numero"><br>
+        Via: <input type="text" name="via" ><br>
+        Indirizzo: <input type="text" name="indirizzo" ><br>
+        Comune di Residenza: <input type="text" name="comune" ><br>
+        Codice Fiscale: <input type="text" name="codice_fiscale"><br>
+        e-mail: <input type="text" name="e-mail"><br>
+
+        <input type="submit" value="Registrati">
+    </form>
+
+    <a href="DATI.html">DATI</a>
+</body>
+</html>

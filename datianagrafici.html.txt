@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visualizzazione Dati Anagrafici</title>
+</head>
+<body>
+    <h1>Dati Anagrafici Utenti</h1>
+    <table border="1">
+        <tr>
+            <td>Giuseppe</td>
+            <td>Rossi</td>
+            <td>3216549870</td>
+            <td>Via Verdi</td>
+            <td>21</td>
+            <td>Roma</td>
+            <td>giov1234ross</td>
+            <td>giuseppe.rossi@email.it</td>
+        </tr>
+        <tr>
+            <td>Maria</td>
+            <td>Bianchi</td>
+            <td>7890123456</td>
+            <td>Via Roma</td>
+            <td>456</td>
+            <td>Milano</td>
+            <td>mariab123</td>
+            <td>maria.bianchi@gmail.com</td>
+        </tr>
+        <tr>
+            <td>Luca</td>
+            <td>Verdi</td>
+            <td>9876543210</td>
+            <td>Via Nazionale</td>
+            <td>78</td>
+            <td>Firenze</td>
+            <td>luca.verdi789</td>
+            <td>luca.verdi@email.it</td>
+        </tr>
+        <tr>
+            <td>Sara</td>
+            <td>Ricci</td>
+            <td>2345678901</td>
+            <td>Via Garibaldi</td>
+            <td>45</td>
+            <td>Torino</td>
+            <td>sara.ricci22</td>
+            <td>sara.ricci@example.com</td>
+        </tr>
+        <tr>
+            <td>Marco</td>
+            <td>Galli</td>
+            <td>8765432109</td>
+            <td>Via Mazzini</td>
+            <td>32</td>
+            <td>Bologna</td>
+            <td>marco.galli456</td>
+            <td>marco.galli@email.it</td>
+        </tr>
+        <tr>
+            <td>Alessia</td>
+            <td>Rizzo</td>
+            <td>5432109876</td>
+            <td>Via Leopardi</td>
+            <td>89</td>
+            <td>Palermo</td>
+            <td>alessia.rizzo78</td>
+            <td>alessia.rizzo@email.it</td>
+        </tr>
+        <tr>
+            <td>Paolo</td>
+            <td>De Luca</td>
+            <td>1098765432</td>
+            <td>Via Dante</td>
+            <td>56</td>
+            <td>Napoli</td>
+            <td>paolo.deluca32</td>
+            <td>paolo.deluca@email.it</td>
+        </tr>
+        <tr>
+            <td>Elisa</td>
+            <td>Martinelli</td>
+            <td>5678901234</td>
+            <td>Via Michelangelo</td>
+            <td>78</td>
+            <td>Genova</td>
+            <td>elisa.martinelli56</td>
+            <td>elisa.martinelli@example.com</td>
+        </tr>
+        <tr>
+            <td>Andrea</td>
+            <td>Conti</td>
+            <td>1234567890</td>
+            <td>Via Oberdan</td>
+            <td>34</td>
+            <td>Venezia</td>
+            <td>andrea.conti78</td>
+            <td>andrea.conti@email.it</td>
+        </tr>
+        <tr>
+            <td>Giulia</td>
+            <td>Rinaldi</td>
+            <td>8901234567</td>
+            <td>Via della Rosa</td>
+            <td>90</td>
+            <td>Verona</td>
+            <td>giulia.rinaldi09</td>
+            <td>giulia.rinaldi@email.it</td>
+        </tr>
+    </table>
+
+    <a href="datiAnagrafici.html">Visualizza dati anagrafici</a>
+</body>
+</html>
